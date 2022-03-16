@@ -1,5 +1,3 @@
-package Array;
-
 public class arraydescribe {
     public static void main(String[] args) {
         
